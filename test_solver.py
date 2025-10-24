@@ -2,6 +2,7 @@ import pytest
 from run import solve
 
 
+
 EXAMPLE1 = [
     "#############",
     "#...........#",
